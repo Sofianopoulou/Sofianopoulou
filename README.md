@@ -11,8 +11,7 @@
   </a>
   <a href="https://twitter.com/soflia77?t=2aILWPCGgz7RRpK9nwzEiw&s=09">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a><br>
-  <img src="https://komarev.com/ghpvc/?username=Sofianopoulou&style=flat-square&color=blue" alt=""/>
+  </a>
 </div>
 
 
