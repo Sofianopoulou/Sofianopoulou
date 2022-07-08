@@ -11,10 +11,11 @@
   </a>
   <a href="https://twitter.com/soflia77?t=2aILWPCGgz7RRpK9nwzEiw&s=09">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+  </a><br>
+  <img src="https://komarev.com/ghpvc/?username=Sofianopoulou&style=flat-square&color=blue" alt=""/>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=Sofianopoulou&style=flat-square&color=blue" alt=""/>
+
 
 <h1 align="center">
   Hey there
@@ -32,7 +33,7 @@ I study Applied Informatics <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - 🔭 I’m currently working on Social Media Management
 - 🌱 I’m currently learning Angular and React
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/apostolia-maria-sofianopoulou-392103211)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/apostolia-maria-sofianopoulou-392103211)
 
 ---
 
