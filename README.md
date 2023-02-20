@@ -6,12 +6,6 @@
   <a href="https://www.linkedin.com/in/apostolia-maria-sofianopoulou-392103211">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.instagram.com/liasofianopoulou/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-  <a href="https://twitter.com/soflia77?t=2aILWPCGgz7RRpK9nwzEiw&s=09">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
 </div>
 
 
@@ -55,21 +49,3 @@ I study Applied Informatics <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sofianopoulou&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
-Ideas
-**Sofianopoulou/Sofianopoulou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-- :seedling: Exploring Technical Content Writing.
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
