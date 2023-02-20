@@ -24,8 +24,6 @@
 ### :woman_technologist: About Me :
 I study Applied Informatics <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> at University of Macedonia.
 
-- 🔭 I’m currently working on Social Media Management
-- 🌱 I’m currently learning Angular and React
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/apostolia-maria-sofianopoulou-392103211)
 
 ---
