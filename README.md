@@ -12,7 +12,7 @@
 ### :woman_technologist: About Me :
 I study Applied Informatics <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> at University of Macedonia. As a current student with a strong foundation in programming concepts and a passion for learning, I am eager to take on new challenges and expand my knowledge in the field. I am committed to staying up-to-date with the latest technologies and trends in software development, and am confident that my enthusiasm and drive will make me a valuable addition to any development team.
 
-- :mailbox: How to reach me: <a href="https://www.linkedin.com/in/apostolia-maria-sofianopoulou-392103211">
+- :LinkedIn: How to reach me: <a href="https://www.linkedin.com/in/apostolia-maria-sofianopoulou-392103211">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   
