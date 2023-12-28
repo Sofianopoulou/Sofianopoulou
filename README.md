@@ -7,8 +7,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"/>
 </h1>
 
----
-
 About Me :
 I study Applied Informatics <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> at University of Macedonia. As a current student with a strong foundation in programming concepts and a passion for learning, I am eager to take on new challenges and expand my knowledge in the field. I am committed to staying up-to-date with the latest technologies and trends in software development, and am confident that my enthusiasm and drive will make me a valuable addition to any development team.
 
