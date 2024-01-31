@@ -7,16 +7,13 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"/>
 </h1>
 
-About Me :
+### About Me
 I study Applied Informatics <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> at University of Macedonia. As a current student with a strong foundation in programming concepts and a passion for learning, I am eager to take on new challenges and expand my knowledge in the field. I am committed to staying up-to-date with the latest technologies and trends in software development, and am confident that my enthusiasm and drive will make me a valuable addition to any development team.
 
-- Reach me on LinkedIn: <a href="https://www.linkedin.com/in/apostolia-maria-sofianopoulou-392103211">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+### Let's Connect
+- LinkedIn: [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/apostolia-maria-sofianopoulou-392103211)
   
----
-
-Languages and Tools :
+### Languages and Tools 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -30,7 +27,6 @@ Languages and Tools :
   <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="AndroidStudio" alt="AndroidStudio" width="40" height="40"/>&nbsp;
 </div>
 
----
-
+### GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sofianopoulou&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
