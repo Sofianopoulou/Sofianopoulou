@@ -28,4 +28,4 @@ I am currently studying Applied Informatics <img src="https://media.giphy.com/me
 </div>
 
 ### GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sofianopoulou&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sofianopoulou&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
