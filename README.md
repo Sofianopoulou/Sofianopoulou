@@ -8,10 +8,10 @@
 </h1>
 
 ### About Me
-I study Applied Informatics <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> at University of Macedonia. As a current student with a strong foundation in programming concepts and a passion for learning, I am eager to take on new challenges and expand my knowledge in the field. I am committed to staying up-to-date with the latest technologies and trends in software development, and am confident that my enthusiasm and drive will make me a valuable addition to any development team.
+I am currently studying Applied Informatics <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> at the University of Macedonia. As a passionate learner with a strong foundation in programming concepts, I thrive on challenges and continuously seek opportunities to expand my knowledge. With a keen interest in software development and a commitment to staying updated with the latest technologies, I am dedicated to making meaningful contributions to the field.
 
 ### Let's Connect
-- LinkedIn: [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/apostolia-sofianopoulou/)
+- Connect with me on LinkedIn: [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/apostolia-sofianopoulou/)
   
 ### Languages and Tools 
 <div>
@@ -29,4 +29,3 @@ I study Applied Informatics <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sofianopoulou&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
