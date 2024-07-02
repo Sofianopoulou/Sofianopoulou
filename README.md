@@ -29,3 +29,9 @@ I am currently studying Applied Informatics <img src="https://media.giphy.com/me
 
 ### GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sofianopoulou&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
