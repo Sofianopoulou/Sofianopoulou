@@ -8,7 +8,7 @@
 </h1>
 
 ### About Me
-I am currently studying Applied Informatics <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> at the University of Macedonia. As a passionate learner with a strong foundation in programming concepts, I thrive on challenges and continuously seek opportunities to expand my knowledge. With a keen interest in software development and a commitment to staying updated with the latest technologies, I am dedicated to making meaningful contributions to the field.
+I am a recent graduate with a Bachelor's degree in Applied Informatics from the University of Macedonia. With a strong foundation in programming concepts and a passion for continuous learning, I am eager to take on new challenges and further expand my knowledge in software development. I am committed to staying up-to-date with the latest technologies and trends in the field and am particularly interested in working as part of a team to learn and grow collaboratively. My enthusiasm, drive, and fresh perspective make me confident that I will be a valuable addition to any development team. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 ### Let's Connect
 - Connect with me on LinkedIn: [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/apostolia-sofianopoulou/)
