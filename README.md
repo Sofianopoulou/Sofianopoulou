@@ -8,7 +8,9 @@
 </h1>
 
 ### About Me
-I am a recent graduate with a Bachelor's degree in Applied Informatics from the University of Macedonia. With a strong foundation in programming concepts and a passion for continuous learning, I am eager to take on new challenges and further expand my knowledge in software development. I am committed to staying up-to-date with the latest technologies and trends in the field and am particularly interested in working as part of a team to learn and grow collaboratively. My enthusiasm, drive, and fresh perspective make me confident that I will be a valuable addition to any development team. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+Software Developer and Sustainable Systems Engineering Master’s student specialising in advanced machine learning and optimisation of complex systems. With a background in Applied Informatics, I focus on building data-driven, efficient and user-oriented digital solutions.
+
+Having studied and worked in international environments, I thrive in multicultural settings and enjoy collaborating across disciplines. I am particularly interested in sustainable systems, digital innovation and the role of technology in improving decision-making and creating meaningful impact. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 ### Let's Connect
 - Connect with me on LinkedIn: [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/apostolia-sofianopoulou/)
